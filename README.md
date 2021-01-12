@@ -11,5 +11,6 @@
     Windows:    py -m venv venv
     Mac.Linux:  python3 -m venv venv
 2. Activate venv:
-    
-3. Install requirements        
+    Windows: .\venv\Scripts\activate.ps1
+3. Install requirements:
+    python -m ipykernel install --user --name=data_vis        
