@@ -9,6 +9,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# Things I have ignored
+*.csv
+
 # IPython
 profile_default/
 ipython_config.py
