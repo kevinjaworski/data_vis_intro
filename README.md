@@ -1,6 +1,6 @@
 ## Ramen Ratings Sheet
 
-### Background # Hypothesis -
+### Background / Hypothesis -
 
 This dataset contains review information on packaged ramen from a number of different countries.
 
