@@ -8,9 +8,15 @@
 
 #### Install dependencies
 1. Make the venv:
+
     Windows:    py -m venv venv
+    
     Mac.Linux:  python3 -m venv venv
+    
 2. Activate venv:
+
     Windows: .\venv\Scripts\activate.ps1
+    
 3. Install requirements:
+
     python -m ipykernel install --user --name=data_vis        
