@@ -1,8 +1,18 @@
-## Data visualization lesson, 1/12/21
+## Ramen Ratings Sheet
+
+### Background # Hypothesis -
+
+This dataset contains review information on packaged ramen from a number of different countries.
+
+Two conclusions are made within this project: 
+
+1. Ramen offerings from Malaysia and Singapore perform unusually well.
+
+2. Ramen offerings from Vietnam and the USA perform unusually poorly. 
 
 #### Getting Started:
 1. Get the data csv from 
-[kaggel.com covid-data](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv)
+[kaggel.com](https://www.kaggle.com/residentmario/ramen-ratings)
 
 2. Add it to the data folder
 
